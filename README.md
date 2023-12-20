@@ -24,6 +24,10 @@ If you\'re interested in creating a specialized GPT for Shad UI, follow this com
 
 4. **Refine Instructions**: Craft precise instructions for the GPT . Emphasize a focus on ShadUI components, frontend development, and specific use cases. These instructions help the gpt understand its specialized role.
 
+https://chat.openai.com/share/fb1da395-fe10-477a-abe8-937e8aabbbd6
+
+### use the shadcn gpt
+https://chat.openai.com/g/g-rVU3PIJdg-shadui-code-assistant
 
 ![image](https://github.com/Worthingtravis/custom-gpt/assets/11166509/159a5950-7542-4733-b379-8e8af152b80a)
 ![image](https://github.com/Worthingtravis/custom-gpt/assets/11166509/34d7d383-6e4a-4325-be91-35f46296e2fe)
