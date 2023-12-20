@@ -24,23 +24,4 @@ If you\'re interested in creating a specialized GPT for Shad UI, follow this com
 
 4. **Refine Instructions**: Craft precise instructions for the GPT . Emphasize a focus on ShadUI components, frontend development, and specific use cases. These instructions help the gpt understand its specialized role.
 
-5. **Maximize Data Upload**: To boost the gpt's effectiveness, upload as many files as the configuration allows. Comprehensive data is crucial for ensuring your AI tool excels in the Shad UI domain.
 
-In conclusion, building a custom GPT for Shad UI isn't just about data; it's about the quality and specificity of the data, clear instructions, and meticulous setup. Follow these steps to create an AI tool that truly enhances your work in the world of Shad UI.
-
-```' > README.md
-
-# Step 4: Add the README to the Git repository
-git add README.md
-
-# Step 5: Commit the changes
-git commit -m "Initial commit with README"
-
-# Step 6: Create a new GitHub repository
-gh repo create custom-gpt-for-shad-ui --public
-
-# Step 7: Push the local Git repository to GitHub
-git push origin main
-
-# Step 8: Repository Created
-# Congratulations! Your new GitHub repository has been created with the provided Markdown content as the README file.
