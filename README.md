@@ -2,7 +2,7 @@
 
 If you\'re interested in creating a specialized GPT for Shad UI, follow this comprehensive how-to guide:
 
-1. **Set Up the Foundation**: Begin by setting up the necessary infrastructure using the [GPT Crawler](https://github.com/BuilderIO/gpt-crawler). This tool is essential for gathering the data required to train your custom model.
+1. **Set Up the Foundation**: Begin by setting up the necessary infrastructure using the [GPT Crawler](https://github.com/BuilderIO/gpt-crawler). This tool is essential for gathering the data required to train your custom gpt.
 
 2. **Curate Data**: After running the crawler, review the generated `.json` file. Initially, you might find that the HTML output lacks depth. For example:
     ```json
@@ -22,9 +22,9 @@ If you\'re interested in creating a specialized GPT for Shad UI, follow this com
     }
     ```
 
-4. **Refine Instructions**: Craft precise instructions for the GPT model. Emphasize a focus on ShadUI components, frontend development, and specific use cases. These instructions help the model understand its specialized role.
+4. **Refine Instructions**: Craft precise instructions for the GPT . Emphasize a focus on ShadUI components, frontend development, and specific use cases. These instructions help the gpt understand its specialized role.
 
-5. **Maximize Data Upload**: To boost the model's effectiveness, upload as many files as the configuration allows. Comprehensive data is crucial for ensuring your AI tool excels in the Shad UI domain.
+5. **Maximize Data Upload**: To boost the gpt's effectiveness, upload as many files as the configuration allows. Comprehensive data is crucial for ensuring your AI tool excels in the Shad UI domain.
 
 In conclusion, building a custom GPT for Shad UI isn't just about data; it's about the quality and specificity of the data, clear instructions, and meticulous setup. Follow these steps to create an AI tool that truly enhances your work in the world of Shad UI.
 
